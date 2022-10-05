@@ -1,0 +1,10 @@
+{
+	"folders": [
+		{
+			"path": "../../../Infrastructure-as-Code/AWS-CloudFormation/Cloudformation Day 6/Componentaization"
+		},
+		{
+			"path": "../../../Infrastructure-as-Code/AWS-CloudFormation/Cloudformation Day 6/Monolith"
+		}
+	]
+}
